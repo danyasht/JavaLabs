@@ -1,0 +1,8 @@
+brand,weight,power,hoursOfWork,isWorking,chainLength,batteryCapacity,typeOfEngine
+Makita,4.2,2500,3.0,true,1.4,20250.0,Electric
+brand,weight,power,hoursOfWork,isWorking,chainLength,batteryCapacity,typeOfEngine
+Kross WXT-1080 XX,3.2,3400,3.7,false,1.7,30500.0,Gasoline
+brand,weight,power,hoursOfWork,isWorking,chainLength,batteryCapacity,typeOfEngine
+Tatra garden,3.0,1800,3.5,true,1.5,15200.0,Gasoline
+brand,weight,power,hoursOfWork,isWorking,chainLength,batteryCapacity,typeOfEngine
+Child's saw,0.8,20,0.0,false,0.7,510.0,none
